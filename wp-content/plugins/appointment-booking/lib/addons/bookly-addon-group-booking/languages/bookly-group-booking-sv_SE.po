@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Group Booking (Add-on)\n"
+"Language: sv\n"
+
+#: 
+msgid "Capacity (min and max)"
+msgstr "Kapacitet (min och max)"
+
+#: 
+msgid "The minimum and maximum number of customers allowed to book the service for the certain time period."
+msgstr "Det minsta och maximala antalet kunder som får boka tjänsten under en viss tidsperiod."
+
+#: 
+msgid "Group Booking"
+msgstr ""
+
+#: 
+msgid "Enable this setting to allow group bookings."
+msgstr ""
+
+#: 
+msgid "Hide this field"
+msgstr "Dölj detta fält"
+
+#: 
+msgid "Number of persons"
+msgstr "Antal personer"
+
+#: 
+msgid "Disable capacity update"
+msgstr ""
+
+#: 
+msgid "Settings saved."
+msgstr "Inställningarna har sparats."
+
+#: 
+msgid "Group bookings information format"
+msgstr ""
+
+#: 
+msgid "Select format for displaying the time slot occupancy for group bookings."
+msgstr ""
+
+#: 
+msgid "[Booked/Max capacity]"
+msgstr ""
+
+#: 
+msgid "[Available left]"
+msgstr ""
+
+#: 
+msgid "Show information about group bookings"
+msgstr ""
+

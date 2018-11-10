@@ -1,0 +1,44 @@
+msgid "Reorder"
+msgstr ""
+
+msgid "Sandbox Mode"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "API Key"
+msgstr ""
+
+msgid "Account ID"
+msgstr ""
+
+msgid "Merchant ID"
+msgstr ""
+
+msgid "OFF"
+msgstr ""
+
+msgid "Time interval of payment gateway"
+msgstr ""
+
+msgid ""
+"This setting determines the time limit after which the payment made via the "
+"payment gateway is considered to be incomplete. This functionality requires "
+"a scheduled cron job."
+msgstr ""
+
+msgid "Transaction rejected"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Pending payment"
+msgstr ""
+
+msgid "Invalid token provided"
+msgstr ""

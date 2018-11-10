@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly ?>
+<div class="bookly-flex-cell hidden-xs hidden-sm hidden-md bookly-padding-left-sm text-center" style="min-width: 150px"> <div class="bookly-font-smaller bookly-color-gray"><?php esc_html_e( 'Capacity (min and max)', 'bookly-group-booking' ) ?></div></div>

@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Custom Fields (Add-on)\n"
+"Language: es\n"
+
+#: 
+msgid "Custom Fields"
+msgstr "Campos personalizados"
+
+#: 
+msgid "Settings saved."
+msgstr "Configuraciones guardadas."
+
+#: 
+msgid "All services"
+msgstr "Todos los servicios"
+
+#: 
+msgid "No service selected"
+msgstr "Sin servicio seleccionado"
+
+#: 
+msgid "Bind fields to services"
+msgstr "Campos se unen a los servicios"
+
+#: 
+msgid "When this setting is enabled you will be able to create service specific custom fields."
+msgstr "Cuando se habilita esta configuración usted será capaz de crear campos personalizados específicos de servicios."
+
+#: 
+msgid "Merge repeating custom fields for multiple bookings of the service"
+msgstr "Fusionar los campos personalizados repetidos para múltiples reservas del servicio"
+
+#: 
+msgid "If enabled, customers will see custom fields for unique appointments while booking multiple instances of the service. Repeating custom fields are merged (collapsed) into one field. If disabled, customers will see custom fields for each appointment in the set of bookings."
+msgstr "Si está habilitado, los clientes verán campos personalizados para citas únicas mientras reservan varias instancias del servicio. La repetición de campos personalizados se fusiona (contrae) en un campo. Si está deshabilitado, los clientes verán campos personalizados para cada cita en el conjunto de reservas."
+
+#: 
+msgid "Text Field"
+msgstr "Campo de texto"
+
+#: 
+msgid "Text Area"
+msgstr "Área de texto"
+
+#: 
+msgid "Text Content"
+msgstr "Contenido del texto"
+
+#: 
+msgid "Checkbox Group"
+msgstr "Casilla grupo"
+
+#: 
+msgid "Radio Button Group"
+msgstr "Radio button grupo"
+
+#: 
+msgid "Drop Down"
+msgstr "Lista desplegable"
+
+#: 
+msgid "Captcha"
+msgstr "Captcha"
+
+#: 
+msgid "HTML allowed in all texts and labels."
+msgstr "HTML permite en todos los textos y etiquetas."
+
+#: 
+msgid "Reorder"
+msgstr "Reordenar"
+
+#: 
+msgid "Remove field"
+msgstr "Retire campo"
+
+#: 
+msgid "Enter a label"
+msgstr "Introduzca una etiqueta"
+
+#: 
+msgid "Required field"
+msgstr "Los campos obligatorios"
+
+#: 
+msgid "Enter a content"
+msgstr "Introduzca un contenido"
+
+#: 
+msgid "Checkbox"
+msgstr "Caja"
+
+#: 
+msgid "Radio Button"
+msgstr "Radio button"
+
+#: 
+msgid "Option"
+msgstr "Opción"
+
+#: 
+msgid "Remove item"
+msgstr "Quitar elemento"
+
+#: 
+msgid "Enable this setting to display custom fields on your booking form."
+msgstr "Habilite esta configuración para mostrar los campos personalizados en su formulario de reserva."
+
+#: 
+msgid "Another code"
+msgstr "Otro código"
+
+#: 
+msgid "Incorrect code"
+msgstr "Código incorrecto"
+
+#: 
+msgid "Required"
+msgstr "Requerido"
+
+#: 
+msgid "combined values of all custom fields"
+msgstr "valores combinados de todos los campos personalizados"
+
+#: 
+msgid "combined values of all custom fields (formatted in 2 columns)"
+msgstr "valores combinados de todos los campos personalizados (formateado en 2 columnas)"
+
+#: 
+msgid "extended staff agenda for next day"
+msgstr "agenda del personal extendida para el día siguiente"
+

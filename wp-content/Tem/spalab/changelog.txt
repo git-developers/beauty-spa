@@ -1,0 +1,157 @@
+*** Spa Lab Innovative Beauty Spa Wordpress Theme Change log ***
+
+2014.09.03 - version 1.0
+ * First release!
+
+2014.09.20 - version 1.1
+* Woocommerce 2.2.4 compatible
+
+2014.11.07 - version 1.2
+* Added New Page Builder to create pages
+* Fixed featured image option in single post
+
+2014.12.18 - version 1.3
+* Now Retina Ready
+* Added Globally enable/disable option for Placeholder
+* Added post and page layout options for catalog archive
+* Added Recent Post with Category shortcode 
+* Fixed Page builder text widget issue
+* Fixed properties issues in Gift cards and Catalog Menu Items shortcodes
+* Updated documentation
+* Updated dummy content file
+* Image Optimization 
+* RTL support
+* Added demo slider zip file
+
+2014.12.24 – version 1.4
+* Fixed header issues
+
+2015.01.08 – version 1.5
+* Gift Card updated
+
+2015.02.24 - version 1.6
+* Woocommerce 2.3.4 compatible
+* Added Top bar color option
+* Added Globally Enable Page Layout option for All Single Posts
+* Updated dummy data file
+* Fixed comments issues in Recent Post shortcode
+* Fixed Icon box target issue
+* Fixed Comment section issue in single portfolio page
+
+2015.03.11 - version 1.7
+* Updated po file
+
+2015.04.17 - version 1.8
+* Added icon property for shortcode catalog menu items list
+* Added suppress_filters
+* Updated Documentation
+* Fixed Data validation
+* Fixed minor design issues
+* Fixed apple favicon issues
+* Fixed logo upload issue
+* Fixed warning notice issues
+* Fixed font issues in Buddha panel
+* Fixed reservation template page content issue
+* Fixed video placeholder  thumbnail issues in portfolio template page.
+
+2015.04.24 - version 1.9
+* Wordpress 4.2 compatible
+* Fixed theme vulnerability
+
+2015.09.23 - version 2.0
+* Wordpress 4.3 compatible
+* Added catalog description
+* Fixed Wpml support issues in page builder
+* Fixed header and body code issues
+* Updated Font Awesome
+* Updated TGM plugin
+
+2015.11.25 - version 2.1
+* Compatible with wordpress 4.3.1 
+* Included updated slider versions
+* Updated Documentation
+* Updated 404 page
+* Improved Breadcrumb section
+* Added placeholder text property in Newletter shortcode
+* Added Button with font awesome icon shortcode
+* Added catalog categories description
+* Added link property to catalog items shortcode
+* Added target property to procedure shortcode
+* Added extra pages
+* Added 7 new header types
+* Added different types of gallery shapes and hover styles.
+* Added Loader options
+* Added Coming Soon template page
+* Added 3 types of Icon boxes
+* Added new type Donutchart
+* Added new shortcodes such as Animation,callout with moving BG  and Appointment
+* Fixed Company notification message saving issue
+* Fixed blog video post wrong dimensions.
+* Fixed currency issues in Gift shortcode
+* Fixed catalog sorting issues
+* Fixed taxonomy issues
+* Fixed nested shortcodes issue (columns inside tabs)
+* Fixed header and body code issue
+
+2015.11.26 - version 2.1.1
+* Fixed loader issue
+
+2015.12.05 - version 2.1.2
+* Fixed logo issues
+* Loader color will change as per skin
+
+2015.12.22 - version 2.1.3
+* Updated .po file
+* Added roboto font in google font list
+* Fixed font issue
+
+2016.03.08 - version 2.2
+* WordPress 4.4.2 Compatible
+* Added captcha for reservation form
+* Fixed few issues
+
+2016.04.16 - version 2.3
+* WordPress 4.5 Compatible
+
+2016.04.19 - version 2.3.1
+* Fixed toggle shortcode issue
+
+2016.05.26 - version 2.3.2
+* Added new catalog items with categories shortcode
+
+2016.06.20 - version 2.3.3
+* Added breadcrumb types
+* Added instagram social icon
+* Added category attribute to gift shortcode
+* Fixed header issue
+* Fixed minor design issues
+* Updated fontawesome icons
+
+02-07-2016 - version 2.4
+* Compatible with WordPress 4.5.3
+* Updated plugins layer slider-5.6.9,Revolution slider-5.2.6,Responsive Styled Google Maps-3.4
+* Updated font awesome icons-4.6.3
+* Updated TGMA plugin-2.6.1
+
+08-08-2016 - version 2.4.1
+* Fixed layer slider invalid URL issue.
+* Updated admin notification in Reservation template.
+
+25-10-2016 - version 2.5
+* Compatible with WordPress 4.6.1
+* Dummy content importer updated
+* Unyson importer plugin included
+* Global page layout option updated
+* Fontawesome css updated
+* Updated latest version of all third party plugins
+* SSL compatible updated
+* Updated documentation
+
+10-11-2016 - version 2.5.1
+* Fixed paypal issue
+
+27-03-2017 - version 2.6
+* Compatible with WordPress 4.7.3
+* Added alignment shortcode
+* Fixed catalog placeholder issue
+* Fixed Recent post excerpt issue

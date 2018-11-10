@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Coupons (Add-on)\n"
+"Language: de\n"
+
+#: 
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: 
+msgid "No coupons found."
+msgstr "Keine Gutscheine gefunden."
+
+#: 
+msgid "Processing..."
+msgstr "Verarbeitung..."
+
+#: 
+msgid "Are you sure?"
+msgstr "Sind Sie sicher?"
+
+#: 
+msgid "All services"
+msgstr "Alle Dienstleistungen"
+
+#: 
+msgid "No service selected"
+msgstr "Keine Dienstleistung ausgewählt"
+
+#: 
+msgid "Discount should be between 0 and 100."
+msgstr "Rabatt sollte zwischen 0 und 100 sein."
+
+#: 
+msgid "Deduction should be a positive number."
+msgstr "Der Abzug sollte eine positive Zahl sein."
+
+#: 
+msgid "New coupon"
+msgstr "Neuer Gutschein"
+
+#: 
+msgid "Edit coupon"
+msgstr "Gutschein bearbeiten"
+
+#: 
+msgid "Code"
+msgstr "Code"
+
+#: 
+msgid "Discount (%)"
+msgstr "Rabatt (%)"
+
+#: 
+msgid "Deduction"
+msgstr "Abzug"
+
+#: 
+msgid "Usage limit"
+msgstr "Nutzungsbeschränkung"
+
+#: 
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: 
+msgid "Coupons"
+msgstr "Gutscheine"
+
+#: 
+msgid "Add Coupon"
+msgstr "Gutschein hinzufügen"
+
+#: 
+msgid "Services"
+msgstr "Dienstleistungen"
+
+#: 
+msgid "Number of times used"
+msgstr "Anzahl der Buchungen"
+
+#: 
+msgid "This coupon code is invalid or has been used"
+msgstr "Dieser Gutscheincode ist ungültig oder wurde bereits verwendet"
+
+#: 
+msgid "The total price for the booking is {total_price}."
+msgstr "Der Gesamtpreis für die Buchung ist {total_price}."
+
+#: 
+msgid "You selected to book {appointments_count} appointments with total price {total_price}."
+msgstr "Sie haben ausgewählt, {appointments_count} Termine mit einem Gesamtpreis von {total_price} zu buchen."
+
+#: 
+msgid "Coupon"
+msgstr "Coupon"
+
+#: 
+msgid "Duplicate"
+msgstr "Duplikat"
+
+#: 
+msgid "No result found"
+msgstr "Kein Ergebnis gefunden"
+
+#: 
+msgid "Remove customer"
+msgstr "Kunden entfernen"
+
+#: 
+msgid "All staff"
+msgstr "Alle Mitarbeiter"
+
+#: 
+msgid "No staff selected"
+msgstr "Keine Mitarbeiter ausgewählt"
+
+#: 
+msgid "All customers"
+msgstr "Alle Kunden"
+
+#: 
+msgid "No limit"
+msgstr "Kein Limit"
+
+#: 
+msgid "Min appointments should be greater than zero."
+msgstr "Die minimale Anzahl Termine muss größer als 0 sein."
+
+#: 
+msgid "Max appointments should be greater than zero."
+msgstr "Die maximale Anzahl Termine muss größer als 0 sein."
+
+#: 
+msgid "Please enter a non empty mask."
+msgstr "Bitte geben Sie eine nicht-leere Maske ein."
+
+#: 
+msgid "It is not possible to generate %d codes for this mask. Only %d codes available."
+msgstr "Es ist nicht möglich %d Codes für diese Make zu erstellen. Nur %d Codes sind verfügbar."
+
+#: 
+msgid "All possible codes have already been generated for this mask."
+msgstr "Alle Codes wurden für diese Maske schon generiert."
+
+#: 
+msgid "New coupon series"
+msgstr "Neue Cuponserie"
+
+#: 
+msgid "You can enter a mask containing asterisks \"*\" for variables here and click Generate."
+msgstr "Sie können eine Maske mit einem Stern \"*\" als Inhalt für die Variable hier eingeben und auf Generieren drücken. "
+
+#: 
+msgid "Generate"
+msgstr "Generieren"
+
+#: 
+msgid "Mask"
+msgstr "Maske"
+
+#: 
+msgid "Enter a mask containing asterisks \"*\" for variables."
+msgstr "Geben Sie eine Maske mit einem Stern \"*\" als Inhalt für Variablen ein."
+
+#: 
+msgid "Amount"
+msgstr "Menge"
+
+#: 
+msgid "Providers"
+msgstr "Anbieter"
+
+#: 
+msgid "Once per customer"
+msgstr "Einmal pro Kunde"
+
+#: 
+msgid "Date limit (from and to)"
+msgstr "Datenlimit (von und bis)"
+
+#: 
+msgid "Clear field"
+msgstr "Feld leeren"
+
+#: 
+msgid "Limit appointments in cart (min and max)"
+msgstr "Anzahl an Terminen im Einkaufskorb(min und max)"
+
+#: 
+msgid "Limit to customers"
+msgstr "Limit für Kunden"
+
+#: 
+msgid "Create another coupon"
+msgstr "Weiteren Coupon erstellen"
+
+#: 
+msgid "Add Coupon Series"
+msgstr "Couponserie Hinzufügen"
+
+#: 
+msgid "Service"
+msgstr "Dienst"
+
+#: 
+msgid "Staff"
+msgstr "Mitarbeiter"
+
+#: 
+msgid "Customer"
+msgstr "Kunde"
+
+#: 
+msgid "Show only active"
+msgstr "Nur aktive anzeigen"
+
+#: 
+msgid "Customers limit"
+msgstr "Kundenlimit"
+
+#: 
+msgid "Active until"
+msgstr "Aktiv bis"
+
+#: 
+msgid "Min. appointments"
+msgstr "Min. Anzahl Termine"
+
+#: 
+msgid "Enable this setting to allow your clients to use coupons at the payment step."
+msgstr "Aktiviere diese Einstellung, um Ihren Kunden zu ermöglichen Coupons beim Zahlungsprozess zu benutzen."
+
+#: 
+msgid "Default code mask"
+msgstr "Standardcodemaske"
+
+#: 
+msgid "Enter default mask for auto-generated codes."
+msgstr "Geben Sie sie Standartmaske für automatisch generierten Code ein."
+
+#: 
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+#: 
+msgid "Select this option to limit the use of the coupon to 1 time per customer."
+msgstr "Wählen Sie diese Option, um die Nutzung des Gutscheins auf 1x pro Kunden zu begrenzen."
+
+#: 
+msgid "Specify minimum and maximum (optional) number of services of the same type required to apply a coupon."
+msgstr "Geben sie minimale und maximale (optional) Zahl an Dienstleistungen der selben Art an, die nötig sind, um den Gutschein anwenden zu dürfen."
+
+#: 
+msgid "This coupon code has expired"
+msgstr "Dieser Gutschein ist abgelaufen."
+

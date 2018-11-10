@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Coupons (Add-on)\n"
+"Language: nl\n"
+
+#: 
+msgid "Edit"
+msgstr "Bewerken"
+
+#: 
+msgid "No coupons found."
+msgstr "Geen kortingsbonnen gevonden."
+
+#: 
+msgid "Processing..."
+msgstr "Verwerken..."
+
+#: 
+msgid "Are you sure?"
+msgstr "Weet u het zeker?"
+
+#: 
+msgid "All services"
+msgstr "Alle diensten"
+
+#: 
+msgid "No service selected"
+msgstr "Geen dienst geselecteerd"
+
+#: 
+msgid "Discount should be between 0 and 100."
+msgstr "Korting moet tussen 0 en 100 liggen."
+
+#: 
+msgid "Deduction should be a positive number."
+msgstr "Korting moet een positief getal zijn."
+
+#: 
+msgid "New coupon"
+msgstr "Nieuwe kortingsbon"
+
+#: 
+msgid "Edit coupon"
+msgstr "Kortingsbon bewerken"
+
+#: 
+msgid "Code"
+msgstr "Code"
+
+#: 
+msgid "Discount (%)"
+msgstr "Korting (%)"
+
+#: 
+msgid "Deduction"
+msgstr "Aftrek"
+
+#: 
+msgid "Usage limit"
+msgstr "Gebruikslimiet"
+
+#: 
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: 
+msgid "Coupons"
+msgstr "Kortingsbonnen"
+
+#: 
+msgid "Add Coupon"
+msgstr "Kortingsbon toevoegen"
+
+#: 
+msgid "Services"
+msgstr "Diensten"
+
+#: 
+msgid "Number of times used"
+msgstr "Aantal keer gebruikt"
+
+#: 
+msgid "This coupon code is invalid or has been used"
+msgstr "Deze kortingscode is ongeldig of is al gebruikt"
+
+#: 
+msgid "The total price for the booking is {total_price}."
+msgstr "De totale prijs voor de boeking is {total_price}."
+
+#: 
+msgid "You selected to book {appointments_count} appointments with total price {total_price}."
+msgstr "U heeft gekozen om {appointments_count} afspraken te boeken met een totale prijs van {total_price}."
+
+#: 
+msgid "Coupon"
+msgstr "Kortingsbon"
+
+#: 
+msgid "Duplicate"
+msgstr "Dupliceer"
+
+#: 
+msgid "No result found"
+msgstr "Geen resultaat gevonden"
+
+#: 
+msgid "Remove customer"
+msgstr "Verwijder klant"
+
+#: 
+msgid "All staff"
+msgstr "Alle personeel"
+
+#: 
+msgid "No staff selected"
+msgstr "Geen personeel geselecteerd"
+
+#: 
+msgid "All customers"
+msgstr "Alle klanten"
+
+#: 
+msgid "No limit"
+msgstr "Geen limiet"
+
+#: 
+msgid "Min appointments should be greater than zero."
+msgstr "Min afspraken moet groter zijn dan nul."
+
+#: 
+msgid "Max appointments should be greater than zero."
+msgstr "Max afspraken moet groter zijn dan nul."
+
+#: 
+msgid "Please enter a non empty mask."
+msgstr "Voer een niet leeg masker in."
+
+#: 
+msgid "It is not possible to generate %d codes for this mask. Only %d codes available."
+msgstr "Het is niet mogelijk om %d codes te genereren voor dit masker. Alleen %d codes beschikbaar."
+
+#: 
+msgid "All possible codes have already been generated for this mask."
+msgstr "Alle mogelijke codes zijn al gegenereerd voor dit masker."
+
+#: 
+msgid "New coupon series"
+msgstr "Nieuwe kortingscode serie"
+
+#: 
+msgid "You can enter a mask containing asterisks \"*\" for variables here and click Generate."
+msgstr "U kunt hier een masker invullen die sterretjes \"*\" bevat voor variabelen en dan op Genereer klikken."
+
+#: 
+msgid "Generate"
+msgstr "Genereer"
+
+#: 
+msgid "Mask"
+msgstr "Masker"
+
+#: 
+msgid "Enter a mask containing asterisks \"*\" for variables."
+msgstr "Vul een masker in die sterretjes \"*\" voor variabelen bevat."
+
+#: 
+msgid "Amount"
+msgstr "Aantal"
+
+#: 
+msgid "Providers"
+msgstr "Dienstverleners"
+
+#: 
+msgid "Once per customer"
+msgstr "Een per klant"
+
+#: 
+msgid "Date limit (from and to)"
+msgstr "Datum limiet (van en tot)"
+
+#: 
+msgid "Clear field"
+msgstr "Maak veld leeg"
+
+#: 
+msgid "Limit appointments in cart (min and max)"
+msgstr "Limiet afspraken in mandje (min en max)"
+
+#: 
+msgid "Limit to customers"
+msgstr "Limiet voor klanten"
+
+#: 
+msgid "Create another coupon"
+msgstr "Maak nog een kortingsbon"
+
+#: 
+msgid "Add Coupon Series"
+msgstr "Voeg Kortingsbon Serie toe"
+
+#: 
+msgid "Service"
+msgstr "Dienst"
+
+#: 
+msgid "Staff"
+msgstr "Personeel"
+
+#: 
+msgid "Customer"
+msgstr "Klant"
+
+#: 
+msgid "Show only active"
+msgstr "Toon alleen actieve"
+
+#: 
+msgid "Customers limit"
+msgstr "Klanten limiet"
+
+#: 
+msgid "Active until"
+msgstr "Actief tot"
+
+#: 
+msgid "Min. appointments"
+msgstr "Min. afspraken"
+
+#: 
+msgid "Enable this setting to allow your clients to use coupons at the payment step."
+msgstr "Schakel deze instellingen in om klanten toe te staan om kortingsbonnen te gebruiken bij de stap betaling."
+
+#: 
+msgid "Default code mask"
+msgstr "Standaard code masker"
+
+#: 
+msgid "Enter default mask for auto-generated codes."
+msgstr "Vul standaard masker voor automatisch gegenereerde codes in."
+
+#: 
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: 
+msgid "Select this option to limit the use of the coupon to 1 time per customer."
+msgstr "Selecteer deze optie om het gebruik van de kortingsbon te limiteren tot 1 keer per klant."
+
+#: 
+msgid "Specify minimum and maximum (optional) number of services of the same type required to apply a coupon."
+msgstr "Specificeer minimaal en maximaal (optioneel) aantal diensten van hetzelfde soort vereist om een kortingsbon toe te passen."
+
+#: 
+msgid "This coupon code has expired"
+msgstr "Deze kortingsbon code is verlopen"
+

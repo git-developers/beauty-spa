@@ -1,0 +1,41 @@
+msgid "Number of persons"
+msgstr ""
+
+msgid "Capacity (min and max)"
+msgstr ""
+
+msgid "Group Booking"
+msgstr ""
+
+msgid "Enable this setting to allow group bookings."
+msgstr ""
+
+msgid "Group bookings information format"
+msgstr ""
+
+msgid ""
+"Select format for displaying the time slot occupancy for group bookings."
+msgstr ""
+
+msgid "[Booked/Max capacity]"
+msgstr ""
+
+msgid "[Available left]"
+msgstr ""
+
+msgid "Settings saved."
+msgstr ""
+
+msgid ""
+"The minimum and maximum number of customers allowed to book the service for "
+"the certain time period."
+msgstr ""
+
+msgid "Show information about group bookings"
+msgstr ""
+
+msgid "Disable capacity update"
+msgstr ""
+
+msgid "Hide this field"
+msgstr ""

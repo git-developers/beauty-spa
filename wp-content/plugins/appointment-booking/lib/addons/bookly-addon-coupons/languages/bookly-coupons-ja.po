@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Coupons (Add-on)\n"
+"Language: ja\n"
+
+#: 
+msgid "Edit"
+msgstr "編集する"
+
+#: 
+msgid "No coupons found."
+msgstr "クーポンが見つかりません"
+
+#: 
+msgid "Processing..."
+msgstr "処理中です"
+
+#: 
+msgid "Are you sure?"
+msgstr "本当によろしいですか？"
+
+#: 
+msgid "All services"
+msgstr "全てのサービス"
+
+#: 
+msgid "No service selected"
+msgstr "サービスが選択されていません"
+
+#: 
+msgid "Discount should be between 0 and 100."
+msgstr "0から100の間の割引を選択できます"
+
+#: 
+msgid "Deduction should be a positive number."
+msgstr "減額は正数でなければなりません。"
+
+#: 
+msgid "New coupon"
+msgstr "新しいクーポン"
+
+#: 
+msgid "Edit coupon"
+msgstr "クーポンの編集をする"
+
+#: 
+msgid "Code"
+msgstr "コード"
+
+#: 
+msgid "Discount (%)"
+msgstr "割引（％）"
+
+#: 
+msgid "Deduction"
+msgstr "減額"
+
+#: 
+msgid "Usage limit"
+msgstr "使用制限"
+
+#: 
+msgid "Cancel"
+msgstr "キャンセルする"
+
+#: 
+msgid "Coupons"
+msgstr "クーポン"
+
+#: 
+msgid "Add Coupon"
+msgstr "全てのクーポン"
+
+#: 
+msgid "Services"
+msgstr "サービス\n"
+""
+
+#: 
+msgid "Number of times used"
+msgstr "使用回数"
+
+#: 
+msgid "This coupon code is invalid or has been used"
+msgstr "このクーポンコードは無効であるか、使用されています"
+
+#: 
+msgid "The total price for the booking is {total_price}."
+msgstr "予約の合計金額は{total_price}です"
+
+#: 
+msgid "You selected to book {appointments_count} appointments with total price {total_price}."
+msgstr "あなたが選択された{appointments_count}回のご予約は総額{total_price}となります。"
+
+#: 
+msgid "Coupon"
+msgstr "クーポン"
+
+#: 
+msgid "Duplicate"
+msgstr "重複"
+
+#: 
+msgid "No result found"
+msgstr "結果がみつかりません"
+
+#: 
+msgid "Remove customer"
+msgstr "顧客を削除する"
+
+#: 
+msgid "All staff"
+msgstr "全てのスタッフ\n"
+""
+
+#: 
+msgid "No staff selected"
+msgstr "スタッフが選択されていません"
+
+#: 
+msgid "All customers"
+msgstr "全ての顧客\n"
+""
+
+#: 
+msgid "No limit"
+msgstr "制限なし"
+
+#: 
+msgid "Min appointments should be greater than zero."
+msgstr "面接予定の最小値はゼロより大きくする必要があります。"
+
+#: 
+msgid "Max appointments should be greater than zero."
+msgstr "面接予定の最大値はゼロより大きくする必要があります。"
+
+#: 
+msgid "Please enter a non empty mask."
+msgstr "空白になってないマスクを入力してください。"
+
+#: 
+msgid "It is not possible to generate %d codes for this mask. Only %d codes available."
+msgstr "このマスクの％dコードを生成することはできません。 ％dコードのみ利用可能です。"
+
+#: 
+msgid "All possible codes have already been generated for this mask."
+msgstr "すべての可能なコードは、このマスクに対して既に生成されています。"
+
+#: 
+msgid "New coupon series"
+msgstr "新しいクーポンシリーズ"
+
+#: 
+msgid "You can enter a mask containing asterisks \"*\" for variables here and click Generate."
+msgstr "ここで変数にアスタリスク \"*\"を含むマスクを入力し、[生成する]をクリックします。"
+
+#: 
+msgid "Generate"
+msgstr "生成する"
+
+#: 
+msgid "Mask"
+msgstr "マスク\n"
+""
+
+#: 
+msgid "Enter a mask containing asterisks \"*\" for variables."
+msgstr "変数にアスタリスク \"*\"を含むマスクを入力します。"
+
+#: 
+msgid "Amount"
+msgstr "金額"
+
+#: 
+msgid "Providers"
+msgstr "プロバイダー"
+
+#: 
+msgid "Once per customer"
+msgstr "顧客1人に1回"
+
+#: 
+msgid "Date limit (from and to)"
+msgstr "日付けの制限（いつからいつまで）"
+
+#: 
+msgid "Clear field"
+msgstr "空白にする"
+
+#: 
+msgid "Limit appointments in cart (min and max)"
+msgstr "カート内の面会予定を制限する（最小および最大）"
+
+#: 
+msgid "Limit to customers"
+msgstr "顧客に対する制限"
+
+#: 
+msgid "Create another coupon"
+msgstr "別のクーポンを作成する"
+
+#: 
+msgid "Add Coupon Series"
+msgstr "クーポンシリーズを追加する"
+
+#: 
+msgid "Service"
+msgstr "サービス"
+
+#: 
+msgid "Staff"
+msgstr "スタッフ\n"
+""
+
+#: 
+msgid "Customer"
+msgstr "顧客\n"
+""
+
+#: 
+msgid "Show only active"
+msgstr "アクティブのみ表示する"
+
+#: 
+msgid "Customers limit"
+msgstr "顧客の制限"
+
+#: 
+msgid "Active until"
+msgstr "有効期限"
+
+#: 
+msgid "Min. appointments"
+msgstr "最小の面会予定"
+
+#: 
+msgid "Enable this setting to allow your clients to use coupons at the payment step."
+msgstr "この設定を有効にすると、クライアントは支払いの段階でクーポンを使用できます。"
+
+#: 
+msgid "Default code mask"
+msgstr "デフォルトのコードのマスク"
+
+#: 
+msgid "Enter default mask for auto-generated codes."
+msgstr "自動生成コードのデフォルトのマスクを入力します。"
+
+#: 
+msgid "Settings saved."
+msgstr "設定が保存されました"
+
+#: 
+msgid "Select this option to limit the use of the coupon to 1 time per customer."
+msgstr "このオプションを選択すると、クーポンの使用が1回につき顧客1人の利用に制限されます。\n"
+""
+
+#: 
+msgid "Specify minimum and maximum (optional) number of services of the same type required to apply a coupon."
+msgstr "クーポンを適用する際に同じ種類のサービスの最小数と最大数（オプション）を指定します。"
+
+#: 
+msgid "This coupon code has expired"
+msgstr "このクーポンコードは有効期限切れです"
+

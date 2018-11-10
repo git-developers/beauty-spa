@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Custom Fields (Add-on)\n"
+"Language: ro\n"
+
+#: 
+msgid "Custom Fields"
+msgstr "Suplimentar"
+
+#: 
+msgid "Settings saved."
+msgstr "Setări salvate."
+
+#: 
+msgid "All services"
+msgstr "Toate serviciile"
+
+#: 
+msgid "No service selected"
+msgstr "Nu a fost selectat nici un serviciu"
+
+#: 
+msgid "Bind fields to services"
+msgstr "Adăugare câmpuri suplimentare serviciilor"
+
+#: 
+msgid "When this setting is enabled you will be able to create service specific custom fields."
+msgstr "Dacă această setare este activă, puteți crea câmpuri personalizate pentru fiecare serviciu în parte."
+
+#: 
+msgid "Merge repeating custom fields for multiple bookings of the service"
+msgstr "Unificare câmpuri repetitive ale clienților, în cazul rezervărilor multiple de servicii"
+
+#: 
+msgid "If enabled, customers will see custom fields for unique appointments while booking multiple instances of the service. Repeating custom fields are merged (collapsed) into one field. If disabled, customers will see custom fields for each appointment in the set of bookings."
+msgstr "Dacă este activat, clienții vor vedea o singură dată câmpurile personalizate în timpul  rezervărilor multiple de servicii. Câmpurile personalizate repetitive sunt îmbinate într-un singur câmp. Dacă este dezactivat, clienții vor vedea câmpuri personalizate pentru fiecare întâlnire din setul de rezervări."
+
+#: 
+msgid "Text Field"
+msgstr "Câmp Text"
+
+#: 
+msgid "Text Area"
+msgstr "Arie Text"
+
+#: 
+msgid "Text Content"
+msgstr "Conținut Text"
+
+#: 
+msgid "Checkbox Group"
+msgstr "Casetă Selecíe pt. Grup"
+
+#: 
+msgid "Radio Button Group"
+msgstr "Buton Radio pt. Grup"
+
+#: 
+msgid "Drop Down"
+msgstr "Listă derulantă"
+
+#: 
+msgid "Captcha"
+msgstr "Captcha"
+
+#: 
+msgid "HTML allowed in all texts and labels."
+msgstr "Permite HTML în texte și etichete."
+
+#: 
+msgid "Reorder"
+msgstr "Reordonare"
+
+#: 
+msgid "Remove field"
+msgstr "Șterge câmpul"
+
+#: 
+msgid "Enter a label"
+msgstr "Introduceți o etichetă"
+
+#: 
+msgid "Required field"
+msgstr "Câmp obligatoriu"
+
+#: 
+msgid "Enter a content"
+msgstr "Introduceți un conținut"
+
+#: 
+msgid "Checkbox"
+msgstr "Casetă de selectare"
+
+#: 
+msgid "Radio Button"
+msgstr "Buton Radio"
+
+#: 
+msgid "Option"
+msgstr "Opțiune"
+
+#: 
+msgid "Remove item"
+msgstr "Ștergere element"
+
+#: 
+msgid "Enable this setting to display custom fields on your booking form."
+msgstr ""
+
+#: 
+msgid "Another code"
+msgstr "Alt cod"
+
+#: 
+msgid "Incorrect code"
+msgstr "Cod incorect"
+
+#: 
+msgid "Required"
+msgstr "Necesar"
+
+#: 
+msgid "combined values of all custom fields"
+msgstr "combină valorile din toate câmpurile personalizate"
+
+#: 
+msgid "combined values of all custom fields (formatted in 2 columns)"
+msgstr "combină valorile din toate câmpurile personalizate (formatat pe 2 coloane)"
+
+#: 
+msgid "extended staff agenda for next day"
+msgstr ""
+

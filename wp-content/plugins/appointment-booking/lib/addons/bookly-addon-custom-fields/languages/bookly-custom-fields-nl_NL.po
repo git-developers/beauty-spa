@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Custom Fields (Add-on)\n"
+"Language: nl\n"
+
+#: 
+msgid "Custom Fields"
+msgstr "Aangepaste Velden"
+
+#: 
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: 
+msgid "All services"
+msgstr "Alle diensten"
+
+#: 
+msgid "No service selected"
+msgstr "Geen enkele dienst geselecteerd"
+
+#: 
+msgid "Bind fields to services"
+msgstr "Bind velden aan diensten"
+
+#: 
+msgid "When this setting is enabled you will be able to create service specific custom fields."
+msgstr "Wanneer deze instelling is ingeschakeld zult u in staat zijn om dienst specifieke aangepaste velden aan te maken."
+
+#: 
+msgid "Merge repeating custom fields for multiple bookings of the service"
+msgstr "Voeg herhalende aangepaste velden samen voor meerdere boekingen van de dienst"
+
+#: 
+msgid "If enabled, customers will see custom fields for unique appointments while booking multiple instances of the service. Repeating custom fields are merged (collapsed) into one field. If disabled, customers will see custom fields for each appointment in the set of bookings."
+msgstr "Indien ingeschakeld zullen klanten aangepaste velden voor unieke afspraken zien bij het boeken van meerdere instanties van de dienst. Herhalende aangepaste velden zijn samengevoegd (ingeklapt) in één veld. Indien uitgeschakeld zullen klanten aangepaste velden voor elke afspraak in de set van boekingen zien."
+
+#: 
+msgid "Text Field"
+msgstr "Tekstveld"
+
+#: 
+msgid "Text Area"
+msgstr "Tekstgebied"
+
+#: 
+msgid "Text Content"
+msgstr "Tekstinhoud"
+
+#: 
+msgid "Checkbox Group"
+msgstr "Keuzevak Groep"
+
+#: 
+msgid "Radio Button Group"
+msgstr "Radioknop Groep"
+
+#: 
+msgid "Drop Down"
+msgstr "Keuzelijst"
+
+#: 
+msgid "Captcha"
+msgstr "Captcha"
+
+#: 
+msgid "HTML allowed in all texts and labels."
+msgstr "HTML toegestaan in alle teksten en labels."
+
+#: 
+msgid "Reorder"
+msgstr "Herschikken"
+
+#: 
+msgid "Remove field"
+msgstr "Veld verwijderen"
+
+#: 
+msgid "Enter a label"
+msgstr "Naam toevoegen"
+
+#: 
+msgid "Required field"
+msgstr "Verplicht veld"
+
+#: 
+msgid "Enter a content"
+msgstr "Vul een inhoud in"
+
+#: 
+msgid "Checkbox"
+msgstr "Keuzevakje"
+
+#: 
+msgid "Radio Button"
+msgstr "Radioknop"
+
+#: 
+msgid "Option"
+msgstr "Optie"
+
+#: 
+msgid "Remove item"
+msgstr "Verwijder item"
+
+#: 
+msgid "Enable this setting to display custom fields on your booking form."
+msgstr "Schakel de instelling in om aangepaste velden in uw boeking systeem weer te geven."
+
+#: 
+msgid "Another code"
+msgstr "Andere code"
+
+#: 
+msgid "Incorrect code"
+msgstr "Onjuiste code"
+
+#: 
+msgid "Required"
+msgstr "Verplicht"
+
+#: 
+msgid "combined values of all custom fields"
+msgstr "combinatie van de waarden van alle aangepaste velden"
+
+#: 
+msgid "combined values of all custom fields (formatted in 2 columns)"
+msgstr "combinatie van de waarden van alle aangepaste velden (geformatteerd in 2 kolommen)"
+
+#: 
+msgid "extended staff agenda for next day"
+msgstr "uitgebreide personeelsagenda voor volgende dag"
+

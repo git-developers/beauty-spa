@@ -1,0 +1,26 @@
+msgid "Mollie accepts payments in Euro only."
+msgstr ""
+
+msgid "Mollie error."
+msgstr ""
+
+msgid "I will pay now with Mollie"
+msgstr ""
+
+msgid "Reorder"
+msgstr ""
+
+msgid "API Key"
+msgstr ""
+
+msgid "OFF"
+msgstr ""
+
+msgid "Time interval of payment gateway"
+msgstr ""
+
+msgid ""
+"This setting determines the time limit after which the payment made via the "
+"payment gateway is considered to be incomplete. This functionality requires "
+"a scheduled cron job."
+msgstr ""

@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly ?>
+<li class="bookly-nav-item" data-target="#bookly_settings_coupons" data-toggle="tab"><?php esc_html_e( 'Coupons', 'bookly-coupons' ) ?></li>

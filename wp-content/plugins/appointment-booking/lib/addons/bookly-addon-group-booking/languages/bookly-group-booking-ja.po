@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Group Booking (Add-on)\n"
+"Language: ja\n"
+
+#: 
+msgid "Capacity (min and max)"
+msgstr "許容人数（最小および最大）"
+
+#: 
+msgid "The minimum and maximum number of customers allowed to book the service for the certain time period."
+msgstr "一定期間サービスを予約することができるお客様のの最小数と最大数"
+
+#: 
+msgid "Group Booking"
+msgstr "グループ予約"
+
+#: 
+msgid "Enable this setting to allow group bookings."
+msgstr "グループ予約を許可するには、この設定を有効にします。"
+
+#: 
+msgid "Hide this field"
+msgstr "この欄を非表示にする"
+
+#: 
+msgid "Number of persons"
+msgstr "人数"
+
+#: 
+msgid "Disable capacity update"
+msgstr "許容人数の更新を無効にする"
+
+#: 
+msgid "Settings saved."
+msgstr "設定が保存されました"
+
+#: 
+msgid "Group bookings information format"
+msgstr "グループ予約情報のフォーマット"
+
+#: 
+msgid "Select format for displaying the time slot occupancy for group bookings."
+msgstr "グループ予約のタイムスロットの埋まり具合を表示するフォーマットを選択してください"
+
+#: 
+msgid "[Booked/Max capacity]"
+msgstr "[予約済み/最大許容人数]"
+
+#: 
+msgid "[Available left]"
+msgstr "[利用可能な枠の残り]"
+
+#: 
+msgid "Show information about group bookings"
+msgstr "グループ予約に関する情報を表示する"
+

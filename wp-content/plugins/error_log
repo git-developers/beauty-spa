@@ -1,0 +1,8 @@
+[07-Feb-2018 09:57:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/griselpeguero/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/griselpeguero/public_html/wp-content/plugins/hello.php on line 60
+[07-Jun-2018 17:10:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/griselpeguero/public_html/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/griselpeguero/public_html/wp-content/plugins/hello.php on line 59

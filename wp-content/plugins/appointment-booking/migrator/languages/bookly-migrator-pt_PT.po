@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"Project-Id-Version: Migrator 15.2\n"
+"Language: pt\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: lib/Plugin.php:53
+msgid "Could not delete the add-on. Please try to delete it from WordPress Plugins page."
+msgstr "Não foi possível deletar o add-on. Por favor, tente deletá-lo a partir da página de plugins do WordPress."
+
+#: lib/Plugin.php:172
+msgid "Could not delete Bookly v15.2. Please delete it manually from WordPress Plugins page."
+msgstr "Não foi possível deletar o Bookly v15.2. Por favor, delete-o manualmente a partir da página de plugins do WordPress."
+
+#: lib/Plugin.php:188 lib/Plugin.php:189
+msgid "Bookly Migrator"
+msgstr "Migrador Bookly"
+
+#: lib/Plugin.php:200 lib/Plugin.php:201
+msgid "Migrator"
+msgstr "Migrador"
+
+#: lib/Plugin.php:317
+msgid "no purchase code"
+msgstr "nenhum código de compra"
+
+#: lib/Plugin.php:360
+msgid "not valid"
+msgstr "não válido"
+
+#: lib/Plugin.php:370
+msgid "Purchase code verification is temporarily unavailable. Please try again later"
+msgstr "A verificação do código de compra está desativada temporariamente. Por favor, tente novamente mais tarde"
+
+#: lib/Upgrader.php:79 lib/Upgrader.php:136
+msgid "Plugin %s not found"
+msgstr "Plugin %s não encontrado"
+
+#: templates/migrator.php:37
+msgid "To benefit from new Bookly, please start the migration process"
+msgstr "Para se beneficiar com o novo Bookly, por favor, comece o processo de migração"
+
+#: templates/migrator.php:40
+msgid "You are one step away to complete the migration process to the new version of Bookly – <b>Bookly Pro</b>."
+msgstr "Você está a um passo de completar o processo de migração para a nova versão do Bookly – <b>Bookly Pro</b>."
+
+#: templates/migrator.php:41
+msgid "We are changing the architecture of the plugin to make Bookly features available to more users and combine the process of developing <b>Free</b> and <b>Pro</b> versions to improve the quality and stability of our plugin. Check our <a href=\"%s\" target=\"_blank\">blog post</a> to find more about new Bookly."
+msgstr "Nós estamos mudando a arquitetura do plugin para fazer com que as opções do Bookly fiquem disponíveis para mais usuários e combinar o processo do desenvolvimento das versões <b>Free</b> e <b>Pro</b> para melhorar a qualidade e a estabilidade do nosso plugin. Cheque nosso <a href=\"%s\" target=\"_blank\">post no blog</a> para saber mais sobre o novo Bookly."
+
+#: templates/migrator.php:42
+msgid "The process is automated and takes just a few minutes. After the update, all your settings and appointments will be stored and can be used as before. You will have two plugins installed – Bookly (required free basic version) and Bookly Pro (add-on with advanced features)."
+msgstr "O processo é automatizado e dura apenas alguns minutos. Depois da atualização, todas as suas definições e compromissos serão armazenados e podem ser usados como antes. Você terá dois plugins instalados - Bookly (versão básica gratuita necessária) e Bookly Pro (add-on com opções avançadas)."
+
+#: templates/migrator.php:47
+msgid "To migrate successfully, follow the steps:"
+msgstr "Siga os passos para migrar com sucesso:"
+
+#: templates/migrator.php:62 templates/migrator.php:86
+#: templates/migrator.php:87
+msgid "Verify purchase codes"
+msgstr "Verificar códigos de compra"
+
+#: templates/migrator.php:63
+msgid "Make sure to provide valid purchase codes for Bookly and its add-ons."
+msgstr "Certifique-se de fornecer códigos de compra válidos para o Bookly e seus add-ons."
+
+#: templates/migrator.php:65
+msgid "WARNING"
+msgstr "AVISO"
+
+#: templates/migrator.php:65
+msgid "To proceed to the next step, you need to specify the valid purchase codes for all of your add-ons. If you do not have a valid purchase code for some add-on, you need to delete it before migrating to the new version of Bookly (press delete add-on next to its name), otherwise you won’t be able to proceed to the next step."
+msgstr "Para prosseguir com o próximo passo, você precisa especificar os códigos de compra válidos de todos os seus add-ons. Se você não tem um código de compra válido para um add-on, você precisa deletá-lo antes de migrar para a nova versão do Bookly (clique em deletar add-on próximo ao nome dele), ou você não poderá prosseguir para o próximo passo."
+
+#: templates/migrator.php:78
+msgid "delete add-on"
+msgstr "deletar add-on"
+
+#: templates/migrator.php:85
+msgid "Verifying..."
+msgstr "Verificando..."
+
+#: templates/migrator.php:91
+msgid "Get the new version of Bookly and its add-ons"
+msgstr "Obtenha a nova versão do Bookly e seus add-ons"
+
+#: templates/migrator.php:92
+msgid "Note that the process of migration can take some time."
+msgstr "Observe que o processo de migração pode tomar algum tempo."
+
+#: templates/migrator.php:94
+msgid "(1/4) Downloading Bookly Pro..."
+msgstr "(1/4) Baixando o Bookly Pro..."
+
+#: templates/migrator.php:95
+msgid "(2/4) Activating Bookly Pro..."
+msgstr "(2/4) Ativando o Bookly Pro..."
+
+#: templates/migrator.php:96
+msgid "(3/4) Upgrading add-ons..."
+msgstr "(3/4) Aprimorando os add-ons..."
+
+#: templates/migrator.php:97
+msgid "(4/4) Deleting old Bookly..."
+msgstr "(4/4) Deletando o Bookly antigo..."
+
+#: templates/migrator.php:98 templates/migrator.php:99
+msgid "Start Migration"
+msgstr "Iniciar Migração"
+
+#: templates/migrator.php:106
+msgid "Update cron for scheduled notifications"
+msgstr "Atualizar cron para notificações agendadas"
+
+#: templates/migrator.php:107
+msgid "If you use cron for scheduled notifications, make sure to update your cron settings by replacing the current command with the following:"
+msgstr "Se você usa o cron para notificações agendadas, certifique-se de atualizar suas definições do cron substituindo o comando atual pelo seguinte:"
+
+#: templates/migrator.php:112
+msgid "I've updated the cron"
+msgstr "Eu atualizei o cron"
+
+#: templates/migrator.php:119
+msgid "Now you are all set!"
+msgstr "Agora está tudo pronto!"
+
+#: templates/migrator.php:120
+msgid "You have successfully installed Bookly (required free basic version) and Bookly Pro (add-on with advanced features). All your data and settings are saved, and you can start using the new Bookly as usual."
+msgstr "Você instalou o Bookly (versão básica necessária) e o Bookly Pro (add-on com opções avançadas). Todos os seus dados e definições estão guardados e você pode começar a usar o novo Bookly como de costume."
+
+#: templates/migrator.php:121
+msgid "Check the new Bookly"
+msgstr "Checar o novo Bookly"
+
+#: templates/migrator.php:186
+msgid "Are you sure you want to delete the add-on?"
+msgstr "Você tem certeza que quer deletar o add-on?"
+
+#: templates/migrator.php:190
+msgid "deleting..."
+msgstr "deletando..."
+
+#: lib/Plugin.php:348
+msgid "%s is used on another domain %s.<br/>In order to use the purchase code on this domain, please dissociate it in the admin panel of the other domain.<br/>If you do not have access to the admin area, please contact our technical support at support@bookly.info to transfer the license manually"
+msgstr "%s é usado em outro domínio %s.<br/>Para usar o código de compra neste domínio, por favor dissocie-o no painel admnistrativo do outro domínio.<br/>Se você não tem acesso à área administrativa, por favor, entre em contato com o nosso suporte técnico em support@bookly.info para transferir a licença manualmente"
+
+#: templates/migrator.php:43
+msgid "In case you face any issues or require further assistance, do not hesitate to contact us at <a href=\"mailto:support@bookly.info\">support@bookly.info</a>."
+msgstr "Caso você tenha algum problema ou precisa de mais assistência, não hesite em entrar em contato conosco em <a href=\"mailto:support@bookly.info\">support@bookly.info</a>."
+
+#: templates/migrator.php:50
+msgid "Before you start"
+msgstr "Antes de você começar"
+
+#: templates/migrator.php:51
+msgid "We suggest to backup Bookly and add-ons (if any) to help restore your data if something goes wrong. To backup your database, use <a href=\"%s\" target=\"_blank\">this instruction</a> or any convenient method."
+msgstr "Nós sugerimos que você faça um backup do Booklye os add-ons (se tiver algum) para ajudar a restaurar os seus dados se algo der errado. Para fazer o backup do banco de dados, use <a href=\"%s\" target=\"_blank\">esta instrução</a> ou qualquer outro método conveniente."
+
+#: templates/migrator.php:55
+msgid "I've backed up Bookly"
+msgstr "Eu fiz o backup do Bookly"

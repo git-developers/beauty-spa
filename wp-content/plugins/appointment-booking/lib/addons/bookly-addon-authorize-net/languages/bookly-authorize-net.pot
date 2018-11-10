@@ -1,0 +1,20 @@
+msgid "Reorder"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "API Login ID"
+msgstr ""
+
+msgid "API Transaction Key"
+msgstr ""
+
+msgid "Sandbox Mode"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""

@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Custom Fields (Add-on)\n"
+"Language: sv\n"
+
+#: 
+msgid "Custom Fields"
+msgstr "Anpassade fält"
+
+#: 
+msgid "Settings saved."
+msgstr "Inställningarna har sparats."
+
+#: 
+msgid "All services"
+msgstr "Alla tjänster"
+
+#: 
+msgid "No service selected"
+msgstr "Ingen service valts"
+
+#: 
+msgid "Bind fields to services"
+msgstr "Binda fält till tjänster"
+
+#: 
+msgid "When this setting is enabled you will be able to create service specific custom fields."
+msgstr "När denna inställning är aktiverad kommer du att kunna skapa tjänstespecifika anpassade fält."
+
+#: 
+msgid "Merge repeating custom fields for multiple bookings of the service"
+msgstr ""
+
+#: 
+msgid "If enabled, customers will see custom fields for unique appointments while booking multiple instances of the service. Repeating custom fields are merged (collapsed) into one field. If disabled, customers will see custom fields for each appointment in the set of bookings."
+msgstr ""
+
+#: 
+msgid "Text Field"
+msgstr "Textfält"
+
+#: 
+msgid "Text Area"
+msgstr "Textarea"
+
+#: 
+msgid "Text Content"
+msgstr "Textinnehåll"
+
+#: 
+msgid "Checkbox Group"
+msgstr "Kryssrutegrupp"
+
+#: 
+msgid "Radio Button Group"
+msgstr "Radioknappsgroup"
+
+#: 
+msgid "Drop Down"
+msgstr "Rullgardinsmeny"
+
+#: 
+msgid "Captcha"
+msgstr "Captcha"
+
+#: 
+msgid "HTML allowed in all texts and labels."
+msgstr "HTML tillåten i alla texter och etiketter."
+
+#: 
+msgid "Reorder"
+msgstr "Ändra ordning"
+
+#: 
+msgid "Remove field"
+msgstr "Ta bort fält"
+
+#: 
+msgid "Enter a label"
+msgstr "Ange en etikett"
+
+#: 
+msgid "Required field"
+msgstr "Obligatoriska fält"
+
+#: 
+msgid "Enter a content"
+msgstr "Ange ett innehåll"
+
+#: 
+msgid "Checkbox"
+msgstr "Kryssruta"
+
+#: 
+msgid "Radio Button"
+msgstr "Radioknapp"
+
+#: 
+msgid "Option"
+msgstr "Alternativ"
+
+#: 
+msgid "Remove item"
+msgstr "Ta bort"
+
+#: 
+msgid "Enable this setting to display custom fields on your booking form."
+msgstr ""
+
+#: 
+msgid "Another code"
+msgstr "En annan kod"
+
+#: 
+msgid "Incorrect code"
+msgstr "Felaktig kod"
+
+#: 
+msgid "Required"
+msgstr "Obligatoriskt"
+
+#: 
+msgid "combined values of all custom fields"
+msgstr "sammanlagda värden för alla egna fält"
+
+#: 
+msgid "combined values of all custom fields (formatted in 2 columns)"
+msgstr "sammanlagda värden för alla egna fält (formaterad i 2 kolumner)"
+
+#: 
+msgid "extended staff agenda for next day"
+msgstr ""
+

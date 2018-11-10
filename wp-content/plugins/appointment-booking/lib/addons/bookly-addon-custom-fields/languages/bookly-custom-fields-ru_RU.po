@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Custom Fields (Add-on)\n"
+"Language: ru\n"
+
+#: 
+msgid "Custom Fields"
+msgstr "Пользовательские поля"
+
+#: 
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: 
+msgid "All services"
+msgstr "Все сервисы"
+
+#: 
+msgid "No service selected"
+msgstr "Сервис не выбран"
+
+#: 
+msgid "Bind fields to services"
+msgstr "Связать поля с сервисами"
+
+#: 
+msgid "When this setting is enabled you will be able to create service specific custom fields."
+msgstr "Когда эта настройка включена, вы сможете создавать поля специфичные для каждого сервиса."
+
+#: 
+msgid "Merge repeating custom fields for multiple bookings of the service"
+msgstr "Объединить повторяющиеся пользовательские поля при множественном бронировании услуги"
+
+#: 
+msgid "If enabled, customers will see custom fields for unique appointments while booking multiple instances of the service. Repeating custom fields are merged (collapsed) into one field. If disabled, customers will see custom fields for each appointment in the set of bookings."
+msgstr "Если включено, клиенты будут видеть пользовательские поля для сервиса в единственном экземпляре даже при бронировании нескольких встреч для одного и того же сервиса. Повторяющиеся пользовательские поля объединяются (сворачиваются) в одно поле. Если отключено, клиенты будут видеть пользовательские поля для каждой встречи в отдельности."
+
+#: 
+msgid "Text Field"
+msgstr "Текстовое поле"
+
+#: 
+msgid "Text Area"
+msgstr "Многострочный текст"
+
+#: 
+msgid "Text Content"
+msgstr "Текст"
+
+#: 
+msgid "Checkbox Group"
+msgstr "Группа галочек"
+
+#: 
+msgid "Radio Button Group"
+msgstr "Группа переключателей"
+
+#: 
+msgid "Drop Down"
+msgstr "Выпадающий список"
+
+#: 
+msgid "Captcha"
+msgstr "Защитный код (Captcha)"
+
+#: 
+msgid "HTML allowed in all texts and labels."
+msgstr "Допускается использование HTML во всех текстах и названиях."
+
+#: 
+msgid "Reorder"
+msgstr "Переместить"
+
+#: 
+msgid "Remove field"
+msgstr "Удалить поле"
+
+#: 
+msgid "Enter a label"
+msgstr "Введите название"
+
+#: 
+msgid "Required field"
+msgstr "Обязательное поле"
+
+#: 
+msgid "Enter a content"
+msgstr "Введите текст"
+
+#: 
+msgid "Checkbox"
+msgstr "Галочка"
+
+#: 
+msgid "Radio Button"
+msgstr "Переключатель"
+
+#: 
+msgid "Option"
+msgstr "Элемент"
+
+#: 
+msgid "Remove item"
+msgstr "Удалить элемент"
+
+#: 
+msgid "Enable this setting to display custom fields on your booking form."
+msgstr "Включите эту настройку для того, чтобы отображать пользовательские поля в форме бронирования."
+
+#: 
+msgid "Another code"
+msgstr "Другой код"
+
+#: 
+msgid "Incorrect code"
+msgstr "Неправильный код"
+
+#: 
+msgid "Required"
+msgstr "Обязательно"
+
+#: 
+msgid "combined values of all custom fields"
+msgstr "данные из всех пользовательских полей"
+
+#: 
+msgid "combined values of all custom fields (formatted in 2 columns)"
+msgstr "данные из всех пользовательских полей (отформатированные в 2 колонки)"
+
+#: 
+msgid "extended staff agenda for next day"
+msgstr "расширенное расписание на следующий день"
+

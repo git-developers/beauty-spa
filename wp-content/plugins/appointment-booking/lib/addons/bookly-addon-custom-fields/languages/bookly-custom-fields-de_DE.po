@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Custom Fields (Add-on)\n"
+"Language: de\n"
+
+#: 
+msgid "Custom Fields"
+msgstr "Benutzerdefinierte Felder"
+
+#: 
+msgid "Settings saved."
+msgstr "Einstellung wurden gespeichert."
+
+#: 
+msgid "All services"
+msgstr "Alle Dienstleistungen"
+
+#: 
+msgid "No service selected"
+msgstr "Keine Dienstleistung ausgewählt"
+
+#: 
+msgid "Bind fields to services"
+msgstr "Verknüpft Felder mit Dienstleistungen."
+
+#: 
+msgid "When this setting is enabled you will be able to create service specific custom fields."
+msgstr "Wenn diese Einstellung aktiviert ist, können Sie Service-spezifische benutzerdefinierte Felder erstellen."
+
+#: 
+msgid "Merge repeating custom fields for multiple bookings of the service"
+msgstr "Wiederholte benutzerdefinierte Felder für mehrere Buchungen des Service zusammenführen"
+
+#: 
+msgid "If enabled, customers will see custom fields for unique appointments while booking multiple instances of the service. Repeating custom fields are merged (collapsed) into one field. If disabled, customers will see custom fields for each appointment in the set of bookings."
+msgstr "Wenn diese Option aktiviert ist, sehen Kunden beim Buchen mehrerer Instanzen des Service benutzerdefinierte Felder für eindeutige Termine. Wiederholte benutzerdefinierte Felder werden in einem Feld zusammengeführt (minimiert). Wenn diese Option deaktiviert ist, werden den Kunden benutzerdefinierte Felder für jeden Termin im Buchungssatz angezeigt."
+
+#: 
+msgid "Text Field"
+msgstr "Text-Feld"
+
+#: 
+msgid "Text Area"
+msgstr "Textbereich"
+
+#: 
+msgid "Text Content"
+msgstr "Textinhalt"
+
+#: 
+msgid "Checkbox Group"
+msgstr "CheckBox-Gruppe"
+
+#: 
+msgid "Radio Button Group"
+msgstr "Radio Button-Gruppe"
+
+#: 
+msgid "Drop Down"
+msgstr "Drop-Down"
+
+#: 
+msgid "Captcha"
+msgstr "Captcha"
+
+#: 
+msgid "HTML allowed in all texts and labels."
+msgstr "HTML in allen Texten und Beschriftungen erlaubt."
+
+#: 
+msgid "Reorder"
+msgstr "Nachbestellung"
+
+#: 
+msgid "Remove field"
+msgstr "Feld entfernen"
+
+#: 
+msgid "Enter a label"
+msgstr "Geben Sie eine Bezeichnung ein"
+
+#: 
+msgid "Required field"
+msgstr "Pflichtfeld"
+
+#: 
+msgid "Enter a content"
+msgstr "Geben Sie einen Inhalt ein"
+
+#: 
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: 
+msgid "Radio Button"
+msgstr "Optionsfeld"
+
+#: 
+msgid "Option"
+msgstr "Option"
+
+#: 
+msgid "Remove item"
+msgstr "Buchung entfernen"
+
+#: 
+msgid "Enable this setting to display custom fields on your booking form."
+msgstr "Aktivieren Sie diese Einstellung, um benutzerdefinierte Felder in Ihrem Buchungsformular anzuzeigen."
+
+#: 
+msgid "Another code"
+msgstr "Ein weiterer Code"
+
+#: 
+msgid "Incorrect code"
+msgstr "Falscher Code"
+
+#: 
+msgid "Required"
+msgstr "Erforderlich"
+
+#: 
+msgid "combined values of all custom fields"
+msgstr "Kombination der Werte aller benutzerdefinierten Felder"
+
+#: 
+msgid "combined values of all custom fields (formatted in 2 columns)"
+msgstr "Kombination der Werte aller benutzerdefinierten Felder (in 2 Spalten formatiert)"
+
+#: 
+msgid "extended staff agenda for next day"
+msgstr "Tagesordnung für den nächsten Tag erweitern"
+

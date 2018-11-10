@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Group Booking (Add-on)\n"
+"Language: zh-TW\n"
+
+#: 
+msgid "Capacity (min and max)"
+msgstr "容量（最小和最大）"
+
+#: 
+msgid "The minimum and maximum number of customers allowed to book the service for the certain time period."
+msgstr "允許在特定時間段內預訂服務的客戶的最小和最大數量。"
+
+#: 
+msgid "Group Booking"
+msgstr ""
+
+#: 
+msgid "Enable this setting to allow group bookings."
+msgstr ""
+
+#: 
+msgid "Hide this field"
+msgstr "隱藏字段"
+
+#: 
+msgid "Number of persons"
+msgstr "人數"
+
+#: 
+msgid "Disable capacity update"
+msgstr ""
+
+#: 
+msgid "Settings saved."
+msgstr "設定已保存。"
+
+#: 
+msgid "Group bookings information format"
+msgstr ""
+
+#: 
+msgid "Select format for displaying the time slot occupancy for group bookings."
+msgstr ""
+
+#: 
+msgid "[Booked/Max capacity]"
+msgstr ""
+
+#: 
+msgid "[Available left]"
+msgstr ""
+
+#: 
+msgid "Show information about group bookings"
+msgstr ""
+

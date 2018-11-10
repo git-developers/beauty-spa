@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Custom Fields (Add-on)\n"
+"Language: ja\n"
+
+#: 
+msgid "Custom Fields"
+msgstr "カスタム欄\n"
+""
+
+#: 
+msgid "Settings saved."
+msgstr "設定が保存されました"
+
+#: 
+msgid "All services"
+msgstr "全てのサービス\n"
+""
+
+#: 
+msgid "No service selected"
+msgstr "サービスが選択されていません"
+
+#: 
+msgid "Bind fields to services"
+msgstr "欄をサービスにバインドする"
+
+#: 
+msgid "When this setting is enabled you will be able to create service specific custom fields."
+msgstr "この設定を有効にすると、サービス固有のカスタム欄を作成できます。"
+
+#: 
+msgid "Merge repeating custom fields for multiple bookings of the service"
+msgstr "サービスの複数の予約に繰り返しカスタム欄を統合させる"
+
+#: 
+msgid "If enabled, customers will see custom fields for unique appointments while booking multiple instances of the service. Repeating custom fields are merged (collapsed) into one field. If disabled, customers will see custom fields for each appointment in the set of bookings."
+msgstr "有効にすると、複数のサービスを予約する際に、お客様は固有の面接に向けたカスタム欄をご覧になれます。 繰り返されるカスタム欄は、1つの欄に統合されます（折りたたまれます）。 無効にすると、お客様は連続した予約の各面接のカスタム欄をご覧になれます。"
+
+#: 
+msgid "Text Field"
+msgstr "テキスト欄"
+
+#: 
+msgid "Text Area"
+msgstr "テキストエリア"
+
+#: 
+msgid "Text Content"
+msgstr "テキストコンテンツ"
+
+#: 
+msgid "Checkbox Group"
+msgstr "チェックボックスグループ"
+
+#: 
+msgid "Radio Button Group"
+msgstr "ラジオボタングループ"
+
+#: 
+msgid "Drop Down"
+msgstr "ドロップダウン"
+
+#: 
+msgid "Captcha"
+msgstr "キャプチャ"
+
+#: 
+msgid "HTML allowed in all texts and labels."
+msgstr "HTMLはすべてのテキストとラベルに使用できます。"
+
+#: 
+msgid "Reorder"
+msgstr "再オーダーする"
+
+#: 
+msgid "Remove field"
+msgstr "欄を削除する"
+
+#: 
+msgid "Enter a label"
+msgstr "ラベルを入力する"
+
+#: 
+msgid "Required field"
+msgstr "必須項目"
+
+#: 
+msgid "Enter a content"
+msgstr "コンテンツを入力する"
+
+#: 
+msgid "Checkbox"
+msgstr "チェックボックス\n"
+""
+
+#: 
+msgid "Radio Button"
+msgstr "ラジオボタン"
+
+#: 
+msgid "Option"
+msgstr "オプション"
+
+#: 
+msgid "Remove item"
+msgstr "商品を削除する"
+
+#: 
+msgid "Enable this setting to display custom fields on your booking form."
+msgstr "この設定を有効にすると、予約フォームにカスタム欄が表示されます"
+
+#: 
+msgid "Another code"
+msgstr "他のコード"
+
+#: 
+msgid "Incorrect code"
+msgstr "間違ったコード"
+
+#: 
+msgid "Required"
+msgstr "必須です"
+
+#: 
+msgid "combined values of all custom fields"
+msgstr "すべてのカスタム欄の合計値"
+
+#: 
+msgid "combined values of all custom fields (formatted in 2 columns)"
+msgstr "すべてのカスタム欄の合計値（2列でフォーマット）"
+
+#: 
+msgid "extended staff agenda for next day"
+msgstr "翌日のスタッフの予定の延長"
+

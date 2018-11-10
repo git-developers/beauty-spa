@@ -1,0 +1,42 @@
+msgid "Reorder"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Instructions"
+msgstr ""
+
+msgid ""
+"In <b>Checkout Options</b> of your 2Checkout account do the following steps:"
+msgstr ""
+
+msgid "In <b>Direct Return</b> select <b>Header Redirect (Your URL)</b>."
+msgstr ""
+
+msgid "In <b>Approved URL</b> enter the URL of your booking page."
+msgstr ""
+
+msgid "Finally provide the necessary information in the form below."
+msgstr ""
+
+msgid "Account Number"
+msgstr ""
+
+msgid "Secret Word"
+msgstr ""
+
+msgid "Sandbox Mode"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Invalid token provided"
+msgstr ""
+
+msgid "Invalid session"
+msgstr ""

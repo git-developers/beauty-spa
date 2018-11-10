@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Coupons (Add-on)\n"
+"Language: zh-TW\n"
+
+#: 
+msgid "Edit"
+msgstr "編輯"
+
+#: 
+msgid "No coupons found."
+msgstr "沒有找到優惠券。"
+
+#: 
+msgid "Processing..."
+msgstr "處理..."
+
+#: 
+msgid "Are you sure?"
+msgstr "確定?"
+
+#: 
+msgid "All services"
+msgstr "所有服務"
+
+#: 
+msgid "No service selected"
+msgstr "未選擇服務"
+
+#: 
+msgid "Discount should be between 0 and 100."
+msgstr "折扣應該在0到100之間。"
+
+#: 
+msgid "Deduction should be a positive number."
+msgstr "折扣應該爲一個正數。"
+
+#: 
+msgid "New coupon"
+msgstr "新的優惠券"
+
+#: 
+msgid "Edit coupon"
+msgstr "編輯優惠券"
+
+#: 
+msgid "Code"
+msgstr "代碼"
+
+#: 
+msgid "Discount (%)"
+msgstr "折扣(%）"
+
+#: 
+msgid "Deduction"
+msgstr "扣除"
+
+#: 
+msgid "Usage limit"
+msgstr "使用限額"
+
+#: 
+msgid "Cancel"
+msgstr "取消"
+
+#: 
+msgid "Coupons"
+msgstr "優惠券"
+
+#: 
+msgid "Add Coupon"
+msgstr "添加優惠卷"
+
+#: 
+msgid "Services"
+msgstr "服務"
+
+#: 
+msgid "Number of times used"
+msgstr "優惠券已經被使用過"
+
+#: 
+msgid "This coupon code is invalid or has been used"
+msgstr "此優惠代碼無效或已經被使用"
+
+#: 
+msgid "The total price for the booking is {total_price}."
+msgstr "您預約的服務總價格是 {total_price}."
+
+#: 
+msgid "You selected to book {appointments_count} appointments with total price {total_price}."
+msgstr "您選擇預訂{appointments_count}個約會，總價為{total_price}。"
+
+#: 
+msgid "Coupon"
+msgstr "優惠券"
+
+#: 
+msgid "Duplicate"
+msgstr ""
+
+#: 
+msgid "No result found"
+msgstr ""
+
+#: 
+msgid "Remove customer"
+msgstr ""
+
+#: 
+msgid "All staff"
+msgstr ""
+
+#: 
+msgid "No staff selected"
+msgstr ""
+
+#: 
+msgid "All customers"
+msgstr ""
+
+#: 
+msgid "No limit"
+msgstr ""
+
+#: 
+msgid "Min appointments should be greater than zero."
+msgstr ""
+
+#: 
+msgid "Max appointments should be greater than zero."
+msgstr ""
+
+#: 
+msgid "Please enter a non empty mask."
+msgstr ""
+
+#: 
+msgid "It is not possible to generate %d codes for this mask. Only %d codes available."
+msgstr ""
+
+#: 
+msgid "All possible codes have already been generated for this mask."
+msgstr ""
+
+#: 
+msgid "New coupon series"
+msgstr ""
+
+#: 
+msgid "You can enter a mask containing asterisks \"*\" for variables here and click Generate."
+msgstr ""
+
+#: 
+msgid "Generate"
+msgstr ""
+
+#: 
+msgid "Mask"
+msgstr ""
+
+#: 
+msgid "Enter a mask containing asterisks \"*\" for variables."
+msgstr ""
+
+#: 
+msgid "Amount"
+msgstr ""
+
+#: 
+msgid "Providers"
+msgstr ""
+
+#: 
+msgid "Once per customer"
+msgstr ""
+
+#: 
+msgid "Date limit (from and to)"
+msgstr ""
+
+#: 
+msgid "Clear field"
+msgstr ""
+
+#: 
+msgid "Limit appointments in cart (min and max)"
+msgstr ""
+
+#: 
+msgid "Limit to customers"
+msgstr ""
+
+#: 
+msgid "Create another coupon"
+msgstr ""
+
+#: 
+msgid "Add Coupon Series"
+msgstr ""
+
+#: 
+msgid "Service"
+msgstr ""
+
+#: 
+msgid "Staff"
+msgstr ""
+
+#: 
+msgid "Customer"
+msgstr ""
+
+#: 
+msgid "Show only active"
+msgstr ""
+
+#: 
+msgid "Customers limit"
+msgstr ""
+
+#: 
+msgid "Active until"
+msgstr ""
+
+#: 
+msgid "Min. appointments"
+msgstr ""
+
+#: 
+msgid "Enable this setting to allow your clients to use coupons at the payment step."
+msgstr ""
+
+#: 
+msgid "Default code mask"
+msgstr ""
+
+#: 
+msgid "Enter default mask for auto-generated codes."
+msgstr ""
+
+#: 
+msgid "Settings saved."
+msgstr ""
+
+#: 
+msgid "Select this option to limit the use of the coupon to 1 time per customer."
+msgstr ""
+
+#: 
+msgid "Specify minimum and maximum (optional) number of services of the same type required to apply a coupon."
+msgstr ""
+
+#: 
+msgid "This coupon code has expired"
+msgstr ""
+

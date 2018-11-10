@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly ?>
+<li class="bookly-nav-item" data-target="#bookly_settings_group_booking" data-toggle="tab"><?php esc_html_e( 'Group Booking', 'bookly-group-booking' ) ?></li>

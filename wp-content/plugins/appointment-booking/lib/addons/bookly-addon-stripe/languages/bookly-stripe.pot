@@ -1,0 +1,20 @@
+msgid "Reorder"
+msgstr ""
+
+msgid "Instructions"
+msgstr ""
+
+msgid ""
+"If <b>Publishable Key</b> is provided then Bookly will use <a href=\"https://"
+"stripe.com/docs/stripe.js\" target=\"_blank\">Stripe.js</a><br/>for "
+"collecting credit card details."
+msgstr ""
+
+msgid "Secret Key"
+msgstr ""
+
+msgid "Publishable Key"
+msgstr ""
+
+msgid "Error"
+msgstr ""
