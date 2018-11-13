@@ -168,10 +168,6 @@ Follow us on Twitter: https://twitter.com/sqlitebrowser
 
 * [Version 3.9.1 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.9.1) - 2016-10-03
 * [Version 3.9.0 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.9.0) - 2016-08-24
-* Version 2.0b1 released - 2009-12-10 - Based on Qt4.6
-* Version 1.2 released - 2005-04-05
-* Version 1.1 released - 2004-07-20
-* Version 1.01 released - 2003-10-02
 * Version 1.0 released to public domain - 2003-08-19
 
 ## History
