@@ -6,7 +6,7 @@
 [![Qt][qt-img]][qt]
 [![Coverity][coverity-img]][coverity]
 
-![DB Browser for SQLite Screenshot](https://www.serenitystouch.ca/wp-content/uploads/2014/07/innovative-spa.jpg "Beauty SPA Screenshot")
+![DB Browser for SQLite Screenshot](https://www.serenitystouch.ca/wp-content/uploads/2014/07/innovative-spa.jpg "DB Browser for SQLite Screenshot")
 
 ## What it is
 
