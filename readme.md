@@ -1,4 +1,4 @@
-# DB Browser for SQLite
+# Beauty SPA
 
 [![Build Status][travis-img]][travis]
 [![Join the chat at https://gitter.im/sqlitebrowser/sqlitebrowser][gitter-img]][gitter]
@@ -6,11 +6,11 @@
 [![Qt][qt-img]][qt]
 [![Coverity][coverity-img]][coverity]
 
-![DB Browser for SQLite Screenshot](https://github.com/sqlitebrowser/sqlitebrowser/raw/master/images/sqlitebrowser.png "DB Browser for SQLite Screenshot")
+![DB Browser for SQLite Screenshot](https://www.serenitystouch.ca/wp-content/uploads/2014/07/innovative-spa.jpg "Beauty SPA Screenshot")
 
 ## What it is
 
-DB Browser for SQLite is a high quality, visual, open source tool to
+Beauty SPA is a high quality, visual, open source tool to
 create, design, and edit database files compatible with SQLite.
 
 It is for users and developers wanting to create databases, search, and edit
@@ -22,13 +22,6 @@ Controls and wizards are available for users to:
 * Create and compact database files
 * Create, define, modify and delete tables
 * Create, define and delete indexes
-* Browse, edit, add and delete records
-* Search records
-* Import and export records as text
-* Import and export tables from/to CSV files
-* Import and export databases from/to SQL dump files
-* Issue SQL queries and inspect the results
-* Examine a log of all SQL commands issued by the application
 
 ## What it is not
 
@@ -55,7 +48,7 @@ reported after the last release. :D
 
 ## MacOS X
 
-DB Browser for SQLite works well on MacOS X.
+Beauty SPA works well on MacOS X.
 
 * OSX 10.8 (Mountain Lion) - 10.12 (Sierra) are tested and known to work
 
@@ -71,7 +64,7 @@ brew cask install sqlitebrowser
 
 ## Linux
 
-DB Browser for SQLite works well on Linux.
+Beauty SPA works well on Linux.
 
 ### Arch Linux
 
@@ -138,7 +131,7 @@ in [BUILDING.md](BUILDING.md).
 
 ## FreeBSD
 
-DB Browser for SQLite works well on FreeBSD, and there is a port for it (thanks
+Beauty SPA works well on FreeBSD, and there is a port for it (thanks
 to [lbartoletti](https://github.com/lbartoletti) :smile:).  It can be installed
 using either this:
 
@@ -175,21 +168,6 @@ Follow us on Twitter: https://twitter.com/sqlitebrowser
 
 * [Version 3.9.1 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.9.1) - 2016-10-03
 * [Version 3.9.0 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.9.0) - 2016-08-24
-* [Version 3.8.0 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.8.0) - 2015-12-25
-* [Version 3.7.0 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.7.0) - 2015-06-14
-* [Version 3.6.0 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.6.0) - 2015-04-27
-* [Version 3.5.1 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.5.1) - 2015-02-08
-* [Version 3.5.0 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.5.0) - 2015-01-31
-* [Version 3.4.0 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.4.0) - 2014-10-29
-* [Version 3.3.1 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.3.1) - 2014-08-31 - Project renamed from "SQLite Database Browser"
-* [Version 3.3.0 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.3.0) - 2014-08-24
-* [Version 3.2.0 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/sqlb-3.2.0) - 2014-07-06
-* [Version 3.1.0 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/sqlb-3.1.0) - 2014-05-17
-* [Version 3.0.3 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/sqlb-3.0.3) - 2014-04-28
-* [Version 3.0.2 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/sqlb-3.0.2) - 2014-02-12
-* [Version 3.0.1 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/sqlb-3.0.1) - 2013-12-02
-* [Version 3.0 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/sqlb-3.0) - 2013-09-15
-* [Version 3.0rc1 released](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/rc1) - 2013-09-09 - Project now on GitHub
 * Version 2.0b1 released - 2009-12-10 - Based on Qt4.6
 * Version 1.2 released - 2005-04-05
 * Version 1.1 released - 2004-07-20
@@ -228,7 +206,7 @@ the request of [Richard Hipp](http://www.hwaci.com/drh) (creator of
 [SQLite](http://sqlite.org)), as the previous name was creating unintended
 support issues.
 
-In September 2014, the project was renamed to "DB Browser for SQLite", to
+In September 2014, the project was renamed to "Beauty SPA", to
 avoid confusion with an existing application called "Database Browser".
 
 ## Contributors
@@ -237,7 +215,7 @@ You can see the list by going to the [__Contributors__ tab](https://github.com/s
 
 ## License
 
-DB Browser for SQLite is bi-licensed under the Mozilla Public License
+Beauty SPA is bi-licensed under the Mozilla Public License
 Version 2, as well as the GNU General Public License Version 3 or later.
 
 You can modify or redistribute it under the conditions of these licenses.
@@ -245,14 +223,3 @@ You can modify or redistribute it under the conditions of these licenses.
   [travis-img]: https://travis-ci.org/sqlitebrowser/sqlitebrowser.svg?branch=master
   [travis]: https://travis-ci.org/sqlitebrowser/sqlitebrowser
 
-  [gitter-img]: https://badges.gitter.im/sqlitebrowser/sqlitebrowser.svg
-  [gitter]: https://gitter.im/sqlitebrowser/sqlitebrowser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
-
-  [download-img]: https://img.shields.io/github/downloads/sqlitebrowser/sqlitebrowser/total.svg
-  [download]: https://github.com/sqlitebrowser/sqlitebrowser/releases
-
-  [qt-img]: https://img.shields.io/badge/Qt-qmake-green.svg
-  [qt]: https://www.qt.io
-
-  [coverity-img]: https://img.shields.io/coverity/scan/11712.svg
-  [coverity]: https://scan.coverity.com/projects/sqlitebrowser-sqlitebrowser
