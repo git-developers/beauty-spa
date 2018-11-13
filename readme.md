@@ -221,5 +221,18 @@ Version 2, as well as the GNU General Public License Version 3 or later.
 You can modify or redistribute it under the conditions of these licenses.
 
   [travis-img]: https://travis-ci.org/sqlitebrowser/sqlitebrowser.svg?branch=master
+  [travis-img]: https://travis-ci.org/sqlitebrowser/sqlitebrowser.svg?branch=master
   [travis]: https://travis-ci.org/sqlitebrowser/sqlitebrowser
+
+  [gitter-img]: https://badges.gitter.im/sqlitebrowser/sqlitebrowser.svg
+  [gitter]: https://gitter.im/sqlitebrowser/sqlitebrowser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
+  [download-img]: https://img.shields.io/github/downloads/sqlitebrowser/sqlitebrowser/total.svg
+  [download]: https://github.com/sqlitebrowser/sqlitebrowser/releases
+
+  [qt-img]: https://img.shields.io/badge/Qt-qmake-green.svg
+  [qt]: https://www.qt.io
+
+  [coverity-img]: https://img.shields.io/coverity/scan/11712.svg
+  [coverity]: https://scan.coverity.com/projects/sqlitebrowser-sqlitebrowser
 
