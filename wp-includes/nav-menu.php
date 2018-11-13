@@ -655,13 +655,25 @@ function wp_get_nav_menu_items( $menu, $args = array() ) {
 		'post_status' => 'publish', 'output' => ARRAY_A, 'output_key' => 'menu_order', 'nopaging' => true );
 	$args = wp_parse_args( $args, $defaults );
 	$args['include'] = $items;
+	
+	
+//	echo "POLLO:uuuuuuuuuu: <pre>";
+//	print_r($items);
+//	exit;
+
 
 	if ( ! empty( $items ) ) {
 		$items = get_posts( $args );
 	} else {
 		$items = array();
 	}
+	
+	
 
+	
+	
+	
+	
 	// Get all posts and terms at once to prime the caches
 	if ( empty( $fetched[ $menu->term_id ] ) && ! wp_using_ext_object_cache() ) {
 		$fetched[$menu->term_id] = true;

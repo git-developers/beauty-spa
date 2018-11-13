@@ -19,8 +19,8 @@
  */
 	
 	
-//define('WP_HOME','http://localhost/griselbeautyspa');
-//define('WP_SITEURL','http://localhost/griselbeautyspa');
+define('WP_HOME','http://localhost/griselbeautyspa');
+define('WP_SITEURL','http://localhost/griselbeautyspa');
 
 
 // ** MySQL settings - You can get this info from your web host ** //

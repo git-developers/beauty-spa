@@ -131,31 +131,56 @@
      <?php endif; ?>
     
                 <!-- **Navigation** -->
-                <div id="primary-menu"><?php if(  (is_page_template('tpl-header6.php') || $header == 'header6') || (is_page_template('tpl-header7.php') || $header == 'header7') || (is_page_template('tpl-header10.php') || $header == 'header10') || (is_page_template('tpl-header12.php') || $header == 'header12')  ): ?>
-                  <div class="container"><?php endif; ?>
+                <div id="primary-menu">
+                    <?php if(
+                            (is_page_template('tpl-header6.php') ||
+                                $header == 'header6') ||
+                            (is_page_template('tpl-header7.php') ||
+                                $header == 'header7') ||
+                            (is_page_template('tpl-header10.php') ||
+                                $header == 'header10') ||
+                            (is_page_template('tpl-header12.php') ||
+                                $header == 'header12')  ): ?>
+                  <div class="container">
+                      <?php endif; ?>
                     <nav id="main-menu">
                     <div class="dt-menu-toggle" id="dt-menu-toggle">
 						<?php _e('Menu','dt_themes');?>
                         <span class="dt-menu-toggle-icon"></span>
 					</div>
                     
-                    <?php $primaryMenu = NULL;
+                    <?php
+                    
+                    $primaryMenu = NULL;
+                    
                     if (function_exists('wp_nav_menu')) :
 							
 							$menu_hover_class = dttheme_option("appearance","submenu-hover");
 							$menu_hover_class = !empty($menu_hover_class) ? " with-hover-style" : "";
 							
 							$menu_class = "menu";
-							if( $header == "header1" || $header == "header6" || $header == "header7" || $header == "header11" || $header == "header12"): $menu_class = "menu rounded"; endif; 
+							if( $header == "header1" || $header == "header6" || $header == "header7" || $header == "header11" || $header == "header12"): $menu_class = "menu rounded"; endif;
 							if($header == "header2"): $menu_class = "menu with-hover-style"; endif;
 							if($header == "header3"): $menu_class = "menu with-hover-style"; endif;
-							if($header == "header5"): $menu_class = "menu rounded type2"; endif; 
+							if($header == "header5"): $menu_class = "menu rounded type2"; endif;
 							
-							$primaryMenu = wp_nav_menu(array('theme_location'=>'header_menu','menu_id'=>'','menu_class'=>$menu_class.$menu_hover_class,'fallback_cb'=>'dttheme_default_navigation' ,'echo'=>false,'container'=>false,'walker' => new DTFrontEndMenuWalker()));
+							$primaryMenu = wp_nav_menu(array(
+							        'theme_location'=>'header_menu',
+                                    'menu_id'=>'','menu_class'=>$menu_class.$menu_hover_class,
+                                    'fallback_cb'=>'dttheme_default_navigation' ,
+                                    'echo'=>false,
+                                    'container'=>false,
+                                    'walker' => new DTFrontEndMenuWalker())
+                            );
                     endif;
-                    if(!empty($primaryMenu))	echo $primaryMenu;?>
-                    </nav><!-- **Navigation - End** --><?php if( (is_page_template('tpl-header6.php') || $header == 'header6') || (is_page_template('tpl-header7.php') || $header == 'header7') || (is_page_template('tpl-header10.php') || $header == 'header10') || (is_page_template('tpl-header12.php') || $header == 'header12') ): ?>
-                   </div><?php endif; ?>
+                    
+                    if(!empty($primaryMenu))
+                        echo $primaryMenu;?>
+                    </nav>
+                      <!-- **Navigation - End** -->
+                      <?php if( (is_page_template('tpl-header6.php') || $header == 'header6') || (is_page_template('tpl-header7.php') || $header == 'header7') || (is_page_template('tpl-header10.php') || $header == 'header10') || (is_page_template('tpl-header12.php') || $header == 'header12') ): ?>
+                        </div>
+                      <?php endif; ?>
                  </div>
                 
          <?php if( (!is_page_template('tpl-header6.php') || $header != 'header6') && (!is_page_template('tpl-header7.php') || $header != 'header7') && (!is_page_template('tpl-header10.php') || $header != 'header10')  && (!is_page_template('tpl-header12.php') || $header != 'header12') ): ?>

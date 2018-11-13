@@ -851,7 +851,7 @@ class WP_Customize_Nav_Menu_Item_Setting extends WP_Customize_Setting {
 				'menu-item-xfn'         => $value['xfn'],
 				'menu-item-status'      => $value['status'],
 			);
-
+			
 			$r = wp_update_nav_menu_item(
 				$value['nav_menu_term_id'],
 				$is_placeholder ? 0 : $this->post_id,
